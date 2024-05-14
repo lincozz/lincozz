@@ -2,7 +2,6 @@
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning Ethereum security
 - 📫 How to reach me yqblpjyf@outlook.com
-- I come from Tianjin University of Science and Technology
 
 
 <!---
